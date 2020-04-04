@@ -12,6 +12,6 @@ Esta técnica visa auxilar os tomadores de decisão na análise dos sentimentos 
 
 Para visualizar a análise completa feita neste projeto, acesse este link:
 
-* https://franklin390.github.io/Project_01_Talking_Data_AdTracking_Fraud_Detection_Challenge/
+* https://franklin390.github.io/Mini_Project_01_Sentiment_Analisys_I/
 
 ---
